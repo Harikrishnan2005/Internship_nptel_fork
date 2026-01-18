@@ -3,10 +3,22 @@ layout: page
 title: Important links
 permalink: /link/
 links:
+    - label: "Dashboard Sheet"
+      url: "https://docs.google.com/spreadsheets/d/1J0U2-pzfBpfyY9-31lGgVB284gix8KkEeFTdT64qzAo/edit?usp=sharing"
+    - label: "HP Master sheet"
+      url: "https://docs.google.com/spreadsheets/d/1H3FVi3JFhw1qol7S7vdYIKzeYfKlGg84eby0psuoQPg/edit?usp=sharing"
     - label: "Activities Document"
       url: "https://writer.zoho.in/writer/open/tk5iv6abecfc364de41289e542b876c05f3e0"
     - label: "Milestones Document"
       url: "https://writer.zoho.in/writer/open/tk5iv07e84d64c700499b9023cd251b66ebc9"
+    - label: "ViBe Issue Reporting Form"
+      url: "https://forms.gle/g1AqdeUnuWgftrZ3A"
+    - label: "Activity Completion Confirmation Form(for students)"
+      url: "https://forms.gle/7Gkyqfc72Pzrpg5d6"
+    - label: "HP Addition/Deduction Form(for VLED team only)"
+      url: "https://forms.gle/guEXxPnZcom5TR1a7"
+    - label: "Pinternship T&C and Declaration Form"
+      url: "https://zfrmz.in/IlClYEoa5iIOpMRVt3Xc"
 ---
 
 [← Back]({{ site.baseurl }}/)
